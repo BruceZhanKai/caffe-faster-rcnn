@@ -7,14 +7,14 @@ This version is happynear's windows caffe version    
 ### 二: [huaze555's windows-caffe-frcnn version](https://github.com/huaze555/windows-caffe-faster-rcnn)  
 This is the huaze555's windows c ++ version of faster-rcnn
 
-###
-caffe 1.0
-cuda 8.0
-cuDNN 5.1
-/*Miniconda 2.7 64-bit*/
-windows 10 x64
-visual studio 2015
-nv gtx 1050
+### requirement
+caffe 1.0  
+cuda 8.0  
+cuDNN 5.1  
+/*Miniconda 2.7 64-bit*/  
+windows 10 x64  
+visual studio 2015  
+nv gtx 1050  
 
 ## reference
 
